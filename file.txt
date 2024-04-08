@@ -1,1 +1,1 @@
-Test conflict file.txt
+Test conflictS file.txt
